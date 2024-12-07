@@ -63,3 +63,14 @@ The model provides:
 
 - **Accurate Predictions**: High accuracy in identifying plant species.  
 - **Performance Insights**: Metrics and visualizations for evaluating the model’s performance.
+
+ ---
+# 📞 Contact
+
+If you have any questions, suggestions, or need further assistance, feel free to reach out:
+
+- **Email**: [mahanak2017iiti@gmail.com](mailto:your-email@example.com)
+- **LinkedIn**: [https://www.linkedin.com/in/ashish-kumar-47bbb9241/](https://www.linkedin.com/in/your-profile)
+
+We would love to hear from you!
+
